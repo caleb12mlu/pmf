@@ -1,2 +1,2 @@
 # pmf
-frontend of the phucuka mzansi foundation
+frontend of the phucuka mzansi foundation website
